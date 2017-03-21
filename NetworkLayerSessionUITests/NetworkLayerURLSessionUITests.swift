@@ -8,7 +8,7 @@
 
 import XCTest
 
-class NetworkLayerSessionUITests: XCTestCase {
+class NetworkLayerURLSessionUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

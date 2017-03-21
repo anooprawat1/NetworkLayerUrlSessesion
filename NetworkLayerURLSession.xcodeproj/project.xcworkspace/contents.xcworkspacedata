@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:NetworkLayerSession.xcodeproj">
+      location = "self:/Users/anooprawat/Documents/NetworkLayerSession/NetworkLayerURLSession.xcodeproj">
    </FileRef>
 </Workspace>

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9E6356801E62BD0000A09B82"
-               BuildableName = "NetworkLayerSession.app"
-               BlueprintName = "NetworkLayerSession"
-               ReferencedContainer = "container:NetworkLayerSession.xcodeproj">
+               BuildableName = "NetworkLayerURLSession.app"
+               BlueprintName = "NetworkLayerURLSession"
+               ReferencedContainer = "container:NetworkLayerURLSession.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9E6356941E62BD0000A09B82"
-               BuildableName = "NetworkLayerSessionTests.xctest"
-               BlueprintName = "NetworkLayerSessionTests"
-               ReferencedContainer = "container:NetworkLayerSession.xcodeproj">
+               BuildableName = "NetworkLayerURLSessionTests.xctest"
+               BlueprintName = "NetworkLayerURLSessionTests"
+               ReferencedContainer = "container:NetworkLayerURLSession.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9E63569F1E62BD0000A09B82"
-               BuildableName = "NetworkLayerSessionUITests.xctest"
-               BlueprintName = "NetworkLayerSessionUITests"
-               ReferencedContainer = "container:NetworkLayerSession.xcodeproj">
+               BuildableName = "NetworkLayerURLSessionUITests.xctest"
+               BlueprintName = "NetworkLayerURLSessionUITests"
+               ReferencedContainer = "container:NetworkLayerURLSession.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E6356801E62BD0000A09B82"
-            BuildableName = "NetworkLayerSession.app"
-            BlueprintName = "NetworkLayerSession"
-            ReferencedContainer = "container:NetworkLayerSession.xcodeproj">
+            BuildableName = "NetworkLayerURLSession.app"
+            BlueprintName = "NetworkLayerURLSession"
+            ReferencedContainer = "container:NetworkLayerURLSession.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E6356801E62BD0000A09B82"
-            BuildableName = "NetworkLayerSession.app"
-            BlueprintName = "NetworkLayerSession"
-            ReferencedContainer = "container:NetworkLayerSession.xcodeproj">
+            BuildableName = "NetworkLayerURLSession.app"
+            BlueprintName = "NetworkLayerURLSession"
+            ReferencedContainer = "container:NetworkLayerURLSession.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E6356801E62BD0000A09B82"
-            BuildableName = "NetworkLayerSession.app"
-            BlueprintName = "NetworkLayerSession"
-            ReferencedContainer = "container:NetworkLayerSession.xcodeproj">
+            BuildableName = "NetworkLayerURLSession.app"
+            BlueprintName = "NetworkLayerURLSession"
+            ReferencedContainer = "container:NetworkLayerURLSession.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
